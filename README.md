@@ -1,1 +1,1 @@
-# odin-recipes-new
+Second version of the odin recipes site.
